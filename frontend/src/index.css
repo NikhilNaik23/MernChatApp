@@ -27,6 +27,6 @@ body{
 
 
 * {
-    scrollbar-width: thin;
-    scrollbar-color: #4e4e4e #000000;
+    scrollbar-width: auto;
+    scrollbar-color: #000000 #ffffff00;
 }
