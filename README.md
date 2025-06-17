@@ -60,7 +60,7 @@ cd MernChatApp
 npm install
 npm run dev
 ```
-- Make sure to configure your .env file:
+- Make sure to configure your .env file in root:
 
 ```bash
 PORT=5000
