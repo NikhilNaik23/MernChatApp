@@ -60,10 +60,13 @@ cd MernChatApp
 npm install
 npm run dev
 ```
-## Make sure to configure your .env file:
-- PORT=5000
-- MONGO_URI=your_mongo_connection_string
-- JWT_SECRET=your_secret_key
+- Make sure to configure your .env file:
+
+```bash
+PORT=5000
+MONGO_URI=your_mongo_connection_string
+JWT_SECRET=your_secret_key
+```
 
 ### 3. Frontend Setup
 
