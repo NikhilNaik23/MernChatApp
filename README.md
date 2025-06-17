@@ -66,6 +66,7 @@ npm run dev
 PORT=5000
 MONGO_URI=your_mongo_connection_string
 JWT_SECRET=your_secret_key
+NODE_ENV=development
 ```
 
 ### 3. Frontend Setup
